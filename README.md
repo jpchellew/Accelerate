@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Katalon Studio Samples: Data Driven Tests
 Katalon Studio is a free and easy-to-use automated functional and regression testing platform. It provides users the ability to implement full automated testing solutions for their application projects with minimal engineering and programming skill requirements.
 ______
@@ -114,3 +115,7 @@ Katalon Documentation: http://docs.katalon.com/, especially some [Tips and Trick
 Katalon Forum: https://forum.katalon.com/
 
 Katalon Business Support: https://www.katalon.com/support-service-options/
+=======
+# Accelerate
+Accelerate Project
+>>>>>>> branch 'master' of https://github.com/jpchellew/Accelerate
